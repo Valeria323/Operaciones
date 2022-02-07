@@ -12,4 +12,5 @@ public class calculadora extends operaciones {
 		int resultado = getValues1() + getValues2();
 		System.out.println("Multiplicacion = " + resultado);
 	}
-}
+	
+	}
